@@ -1,0 +1,15 @@
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.Properties.Resources.resources
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.csproj.GenerateResource.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\bin\Debug\IssuesTrackerApp.exe.config
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\bin\Debug\IssuesTrackerApp.exe
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\bin\Debug\IssuesTrackerApp.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\bin\Debug\IssuesBusinessLogic.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\bin\Debug\IssueTrackerInfrastructure.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\bin\Debug\IssuesBusinessLogic.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\bin\Debug\IssueTrackerInfrastructure.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.csproj.CopyComplete
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.exe
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\obj\Debug\IssuesTrackerApp.frmIssueTracker.resources

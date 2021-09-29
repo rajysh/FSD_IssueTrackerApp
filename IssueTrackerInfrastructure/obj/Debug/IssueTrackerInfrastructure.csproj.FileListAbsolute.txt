@@ -1,0 +1,11 @@
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssueTrackerInfrastructure\bin\Debug\IssueTrackerInfrastructure.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssueTrackerInfrastructure\bin\Debug\IssueTrackerInfrastructure.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\IssueTrackerInfrastructure\bin\Debug\IssueTrackerInfrastructure.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\IssueTrackerInfrastructure\bin\Debug\IssueTrackerInfrastructure.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp 8\IssuesTrackerApp\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.pdb
